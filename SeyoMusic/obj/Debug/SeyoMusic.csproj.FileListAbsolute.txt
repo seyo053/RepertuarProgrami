@@ -1,0 +1,24 @@
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\bin\Debug\SeyoMusic.exe.config
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\bin\Debug\SeyoMusic.exe
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\bin\Debug\SeyoMusic.pdb
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.csprojAssemblyReference.cache
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Form1.resources
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Properties.Resources.resources
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.csproj.GenerateResource.cache
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.csproj.CoreCompileInputs.cache
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.exe
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.pdb
+C:\Users\Zeynel Oğuzhan\source\repos\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Şarkı_Ekle.resources
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\bin\Debug\SeyoMusic.exe.config
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\bin\Debug\SeyoMusic.exe
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\bin\Debug\SeyoMusic.pdb
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.SeyoMusic.resources
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Properties.Resources.resources
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Şarkı_Ekle.resources
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.exe
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.pdb
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Sil.resources
+C:\Users\user\Desktop\SeyoMusic\SeyoMusic\obj\Debug\SeyoMusic.Güncelle.resources
